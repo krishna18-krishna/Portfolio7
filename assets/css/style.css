@@ -427,6 +427,57 @@ h2{
     right: 200px;
     border-radius: 50px;
 }
+.touch{
+    position: absolute;
+    top:4120px;
+    font-size: 50px;
+}
+.name{
+    position:absolute;
+    top: 4300px;
+    height: 50px;
+    width: 600px;
+    left: 400px;
+}
+.email{
+    position:absolute;
+    top: 4450px;
+    height: 50px;
+    width: 600px;
+    left: 400px;
+}
+.message{
+    position:absolute;
+    top: 4600px;
+    height: 70px;
+    width: 600px;
+    left: 400px;
+}
+footer form .submit{
+    position: absolute;
+    top: 4700px;
+    left: 650px;
+    height: 40px;
+    width: 100px; 
+    border: 10px;  
+}
+footer form .clear{
+    position: absolute;
+    top: 4700px;
+    left: 850px;
+    height: 40px;
+    width: 100px; 
+    border: 10px;  
+}
+
+.spaces4{
+    position: absolute;
+    top: 4750px;
+    left: 5px;
+    height: 100px;
+    width: 100px;   
+}
+
 
 
 
